@@ -1,0 +1,11 @@
+[package]
+name = "ezytutors"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+actix-rt = "2"
+
+[workspace]
+members = ["tutor-nodb"]
