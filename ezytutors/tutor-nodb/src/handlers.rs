@@ -58,3 +58,25 @@ mod tests {
         assert_eq!(resp.status(), StatusCode::OK);
     }
 }
+
+pub async fn get_course_for_tutor(
+    app_state: web::Data<AppState>,
+    params: web::Path<i32>,
+) -> HttpResponse {
+    let tutor_id: i32 = params.0;
+
+    let filterd_courses = app_state
+    .courses
+    .lock()
+    .unwrap()
+    .clone()
+    .into_iter()
+    .filter(|course| course.tutor_id == tutor_id)
+    .collect::<Vec<Course>>();
+
+    if filterd_courses.len() > 0 {
+        HttpResponse::Ok().json(filterd_courses)
+    } else {
+        HttpResponse::Ok().json("No courses found for tutor".to_string())
+    }
+}
