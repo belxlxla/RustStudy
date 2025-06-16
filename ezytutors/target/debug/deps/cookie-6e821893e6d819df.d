@@ -1,0 +1,11 @@
+/Users/belxlxla/Desktop/belxlxla/RustStudy/ezytutors/target/debug/deps/libcookie-6e821893e6d819df.rmeta: /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/lib.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/builder.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/parse.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/jar.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/delta.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/draft.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/expiration.rs
+
+/Users/belxlxla/Desktop/belxlxla/RustStudy/ezytutors/target/debug/deps/cookie-6e821893e6d819df.d: /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/lib.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/builder.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/parse.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/jar.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/delta.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/draft.rs /Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/expiration.rs
+
+/Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/lib.rs:
+/Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/builder.rs:
+/Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/parse.rs:
+/Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/jar.rs:
+/Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/delta.rs:
+/Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/draft.rs:
+/Users/belxlxla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cookie-0.16.2/src/expiration.rs:
